@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there! I'm <span style="color: #b440e2"> Hariskumar S... </span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  <br>
- <h3 align="left"> "Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.” <br>- Bill Gates</h3>
+ <h3 align="left"> "Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.” <be>   - Bill Gates</h3>
  
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=b440e2&size=24&width=500&lines=Currently+Learning+Backend+Development+and+System+Design;Backend+Developer;Nice+to+meet+you...)
  <img  src="https://hariskumars.netlify.app/static/media/output-onlinegiftools.0137dac1.gif" height="100px" align="right" />
