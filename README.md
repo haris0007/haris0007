@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m a `Nodejs Backend Developer`
+- 🌱 I’m a `Backend Engineer`
 
 - 👯 I’m looking to collaborate for `Projects`
 
